@@ -13,6 +13,10 @@ export default [
   },
   {
     label: 'xl',
-    value: '(min-width: 1280px)',
+    value: '(min-width: 1280px) and (max-width: 1536)',
+  },
+  {
+    label: '2xl',
+    value: '(min-width: 1536px)',
   }
 ]
